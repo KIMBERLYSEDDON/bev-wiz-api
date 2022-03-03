@@ -52,6 +52,6 @@ const drinkSchema = new Schema({
 
 
 
-const Alcohol = model("Alcohol", alcoholSchema);
+const Drink = model("Drink", drinkSchema);
 
-module.exports = Alcohol;
+module.exports = Drink;
