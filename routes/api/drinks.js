@@ -15,7 +15,7 @@ const drinks = [
       "few shakes Worcestershire sauce",
       "few shakes Tobasco",
     ],
-    mixer: "null",
+    mixer: null,
     garnish: ["2 celery sticks", "2 slices of lemon"],
     instructions: `STEPS: 
         1. Place the ice in a large jug. Measure the vodka, tomato juice and lemon juice and pour it straight onto the ice.
@@ -34,7 +34,7 @@ const drinks = [
       "3/4 ounce lime juice, freshly squeezed",
       "Club soda, to top",
     ],
-    mixer: "null",
+    mixer: null,
     garnish: ["Mint Spring Garnish"],
     instructions: `STEPS:
         1. Lightly muddle the mint with the simple syrup in a shaker.
@@ -55,38 +55,53 @@ const drinks = [
       "2 oranges, juiced, plus 2 slices to garnish",
       "50ml cranberry juice",
     ],
-    mixer: "",
+    mixer: null,
     garnish: ["glacé cherries, to garnish (optional)"],
     instructions: `STEPS:
         1. Fill two tall glasses with ice cubes. Pour the vodka, peach schnapps and fruit juices into a large jug and stir.
         2. Divide the mixture between the two glasses and stir gently to combine. Garnish with the cocktail cherries and orange slices.`,
   },
-  //   {
-  //     id: 4,
-  //     name: "",
-  //     description:
-  //       ``,
-  //     glassware: "",
-  //     alcohol: [],
-  //     additional:
-  //       [],
-  //     mixer: "",
-  //     garnish: [],
-  //     instructions: ``,
-  //   },
-  //   {
-  //     id: 5,
-  //     name: "",
-  //     description:
-  //       ``,
-  //     glassware: "",
-  //     alcohol: [],
-  //     additional:
-  //       [],
-  //     mixer: "",
-  //     garnish: [],
-  //     instructions: ``,
-  //   },
+  {
+    id: 4,
+    name: "Piña Colada",
+    description: `One of the world’s most popular summer cocktails, the Piña Colada tastes refreshing and sweet. It´s super easy to make and perfect to enjoy with friends. It’s no surprise why it’s a favorite in beach bars everywhere!`,
+    glassware: "Poco Grande glass",
+    alcohol: ["2 ounces light rum"],
+    additional: [
+      "1 1/2 ounces cream of coconut",
+      "1 1/2 ounces pineapple juice",
+      "1/2 ounce lime juice, freshly squeezed",
+    ],
+    mixer: null,
+    garnish: [
+      "Pineapple leaves or wedges (optional)",
+      "Paper umbrella and straw (optional)",
+    ],
+    instructions: `STEPS:
+        1. Add the rum, cream of coconut and pineapple and lime juices to a shaker with ice and shake vigorously for 20 to 30 seconds.
+        2. Strain into a chilled Hurricane glass over pebble ice.
+        3. Garnish with a pineapple wedge, pineapple leaf, and paper umbrella.
+      `,
+  },
+    {
+      id: 5,
+      name: "Long Island Iced Tea",
+      description:
+        `A Long Island iced tea or Long Island ice tea is a type of cocktail typically made with vodka, tequila, light rum, triple sec, gin, and a splash of cola, which gives the drink the same amber hue as iced tea.`,
+      glassware: "Collins or Hurricane glass",
+      alcohol: ["1/2 fluid ounce vodka", "1/2 fluid ounce rum", "1/2 fluid ounce gin", "1/2 fluid ounce tequila", "1/2 fluid ounce triple sec (orange-flavored liqueur)"],
+      additional:
+        ["1 fluid ounce cola, or to taste"],
+      mixer: "1 fluid ounce sweet and sour mix",
+      garnish: ["1 lemon slice "],
+      instructions: `STEPS:
+        1. Fill a cocktail shaker with ice. 
+        2. Pour vodka, rum, gin, tequila, triple sec, and sour mix over ice; cover and shake. 
+        3. Pour cocktail into a glass.
+        4. Top with splash of cola for color. 
+        5. Garnish with a lemon slice.
+      `,
+    },
   //   {
   //     id: 6,
   //     name: "",
