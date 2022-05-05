@@ -35,7 +35,7 @@ const drinks = [
       "Club soda, to top",
     ],
     mixer: null,
-    garnish: ["Mint Spring Garnish"],
+    garnish: ["Mint Leaves"],
     instructions: `STEPS:
         1. Lightly muddle the mint with the simple syrup in a shaker.
         2. Add the rum, lime juice and ice, and give it a brief shake.

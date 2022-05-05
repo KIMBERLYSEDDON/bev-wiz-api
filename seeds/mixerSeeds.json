@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "6269798601bcbc2d9253bf9b",
+    "name": "Tonic Water",
+    "type": "Soda"
+  },
+  {
+    "_id": "6269798c24598e112e51872d",
+    "name": "Sweet and Sour Mix",
+    "type": "Mix"
+  },
+  {
+    "_id": "62697992ab55e114c03c56f1",
+    "name": "Margarita Mix",
+    "type": "Mix"
+  },
+  {
+    "_id": "62697997dfdaec9da9fe965f",
+    "name": "Ginger Beer",
+    "type": "Beer"
+  },
+  {
+    "_id": "6269799ccfe34704b702dca1",
+    "name": "Club Soda",
+    "type": "Soda"
+  },
+  {
+    "_id": "626979a188703b4ca8e5c66e",
+    "name": "Cola",
+    "type": "Soda"
+  },
+  {
+    "_id": "626979a6d1f13df74f93b89a",
+    "name": "Apple Cider",
+    "type": "Cider"
+  },
+  {
+    "_id": "626979ac397eb941fbe08ce6",
+    "name": "Grenadine",
+    "type": "Juice"
+  },
+  {
+    "_id": "626979b1cd406afbe2a92b61",
+    "name": "Orange Juice",
+    "type": "Juice"
+  },
+  {
+    "_id": "626979b6ca00626af1eb734c",
+    "name": "Pineapple Juice",
+    "type": "Juice"
+  },
+  {
+    "_id": "626979bba82c98956366af90",
+    "name": "Tomato Juice",
+    "type": "Juice"
+  },
+  {
+    "_id": "626979c2f5eb788d58ecd908",
+    "name": "Fruit Pure",
+    "type": "Pure"
+  },
+  {
+    "_id": "626979c8bcc129e969c8a07d",
+    "name": "Lime Juice",
+    "type": "Juice"
+  },
+  {
+    "_id": "626979cd17e9437b9f32e035",
+    "name": "Lemonade",
+    "type": "Lemonade"
+  },
+  {
+    "_id": "626979d1966bc3d8fcd2ff85",
+    "name": "Cranberry Juice",
+    "type": "Juice"
+  },
+  {
+    "_id": "626979d5f32b382bb8d6e5ca",
+    "name": "Grapefruit Juice",
+    "type": "Juice"
+  }
+]
